@@ -12,7 +12,7 @@ Then you have to go to:
 ```bash
  chrome://extensions/
 ```
-In this page you will see the option at the top left corner named "Load unpacked". After clicking that you have to select the folder that was used previously to store the files. After the selection, the extension will be loaded in your chrome.
+Here you will see the option at the top left corner named "Load unpacked". After clicking that you have to select the folder that was used previously to store the files. After the selection, the extension will be loaded in your chrome.
     
 ## Features
 - You can manually copy and paste the URL that you would like to save there. For that use the 'Save Input' button.
